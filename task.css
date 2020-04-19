@@ -1,0 +1,11 @@
+.panel-container {
+  background: #fff;
+  box-shadow: 0 0 0 1px rgba(102, 102, 102, .1), 0 2px 1px rgba(0, 0, 0, .1);
+  padding: 10px;
+}
+.mtop3{
+    margin-top: 3rem !important;
+}
+.mtop1{
+    margin-top: 1rem !important;
+}
